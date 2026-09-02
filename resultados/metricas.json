@@ -1,0 +1,62 @@
+{
+  "amostras": 108,
+  "classes": {
+    "Underweight": 47,
+    "Normal Weight": 29,
+    "Overweight": 20,
+    "Obese": 12
+  },
+  "validacao_cruzada": {
+    "acuracia": {
+      "media": 0.9370370370370372,
+      "desvio_padrao": 0.05250906251391787
+    },
+    "acuracia_balanceada": {
+      "media": 0.929040854978355,
+      "desvio_padrao": 0.06723531082168337
+    },
+    "f1_macro": {
+      "media": 0.9244821741184138,
+      "desvio_padrao": 0.0672489350066224
+    }
+  },
+  "relatorio_holdout": {
+    "Normal Weight": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 7.0
+    },
+    "Obese": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 3.0
+    },
+    "Overweight": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 5.0
+    },
+    "Underweight": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 12.0
+    },
+    "accuracy": 1.0,
+    "macro avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 27.0
+    },
+    "weighted avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 27.0
+    }
+  }
+}
