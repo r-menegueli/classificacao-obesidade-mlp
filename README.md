@@ -1,6 +1,6 @@
 # Classificação de obesidade com rede neural MLP
 
-[![CI](https://github.com/Darkramuza/classificacao-obesidade-mlp/actions/workflows/ci.yml/badge.svg)](https://github.com/Darkramuza/classificacao-obesidade-mlp/actions/workflows/ci.yml)
+[![CI](https://github.com/r-menegueli/classificacao-obesidade-mlp/actions/workflows/ci.yml/badge.svg)](https://github.com/r-menegueli/classificacao-obesidade-mlp/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-MLP-F7931E?logo=scikitlearn&logoColor=white)
 
